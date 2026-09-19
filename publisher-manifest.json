@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "18e68ff4358d250cd0e688e0",
+  "owner": "fwudkf",
+  "repo": "page-c9a248afeedfc44eff97352c",
+  "title": "YukiMo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c9a248afeedfc44eff97352c",
+      "a": "YukiMo",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "YukiMo",
+      "brand": "YukiMo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e57d1ebe1e9fb267ae149047793568a5790d002c363d0d9fb54dba57faa10469",
+      "content": {
+        "primary_entity": "YukiMo",
+        "keyword1": "YukiMo",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "YukiMo 支持多平台客户端，按设备选择适配版本即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，即可开始配置 YukiMo 订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，YukiMo 提供基础版、旗舰版与团队版三档套餐，覆盖 3 台、5 台到 20 台设备同时在线，月流量从 100GB 到 1000GB，适合个人用户、游戏玩家与小型团队按需选择。结合 Clash Mi 客户端下载与订阅配置，可快速完成多设备连接。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求到订阅周期，三步理清适合自己的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择看三点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量选定档位。",
+          "AI_FEATURE_TEXT_2": "各档月流量分别为 100GB、300GB 与 1000GB，重度流媒体或游戏用户可优先旗舰版。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付价格分别降至 ¥150/年、¥350/年与 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "YukiMo 面向需要稳定海外连接的访客，提供基础版、旗舰版与团队版三档订阅，分别匹配个人、游戏加速与团队协作场景。结合 Clash Mi 客户端快速下载与订阅导入，可在常用设备上完成配置。",
+          "AI_HERO_SUBTITLE": "多套餐覆盖多设备连接",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备，月付 ¥15",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_PLANS_INTRO": "三档套餐按设备数与流量区分，可先看月付价格再决定年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的在线设备数、流量额度与节点类型，确认满足日常使用。",
+          "AI_STEP_TEXT_3": "在对应设备上按 Clash Mi 客户端文档导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "YukiMo 多设备订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "个人手机加电脑使用可选基础版 3 台设备；需要流媒体解锁与游戏专线可选旗舰版 5 台设备；团队协作或较多设备同时在线可选团队版 20 台设备。",
+          "AI_FAQ_QUESTION_2": "订阅支持哪些设备导入？",
+          "AI_FAQ_ANSWER_2": "常见手机、平板与桌面系统均有对应客户端，具体支持情况请参照各客户端文档，按说明导入订阅链接即可使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付一年费用，年付价格约为月付的十个月，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超出当前套餐上限时，可升级至更高一档套餐，或减少同时连接设备数量以符合套餐规定。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下个计费周期重置，或升级至更高流量档位的套餐，以满足后续使用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e2f6a76de10caef5fc955aa9d5dc0f5a44bbd7ce8145588bba3f152f2ba5170d",
+    "sitemap.xml": "3a503c20a37a3fdcd904e350bfe9db8e6d2f9ee3336d3066e62029b2f32fd5b1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d25a6839fa8929e604e7d8e83be547c317966bff26ee29adffcad623244545cb"
+}
